@@ -1,0 +1,17 @@
+{
+    "name": "timacdonald/laravel-access-validated-inputs",
+    "description": "Ensures input accessed from a Laravel request object is validated",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim MacDonald",
+            "email": "tim.mac7@me.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "TiMacDonald\\Http\\Request\\": "/src"
+        }
+    }
+}
