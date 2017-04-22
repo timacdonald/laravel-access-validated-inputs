@@ -1,12 +1,14 @@
 {
     "name": "timacdonald/laravel-access-validated-inputs",
     "description": "Ensures input accessed from a Laravel request object is validated",
-    "type": "project",
+    "keywords": ["laravel", "validation"],
+    "type": "utility",
     "license": "MIT",
     "authors": [
         {
             "name": "Tim MacDonald",
-            "email": "tim.mac7@me.com"
+            "email": "tim.mac7@me.com",
+            "homepage": "https://timacdonald.me"
         }
     ],
     "autoload": {
