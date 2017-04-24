@@ -12,6 +12,10 @@ You can install using [composer](https://getcomposer.org/) from [Packagist](http
 composer require timacdonald/laravel-access-validated-inputs
 ```
 
+## Versioning
+
+This package uses *Semantic Versioning*. You can find out more about what this is and why it matters by reading [the spec](http://semver.org) or for something more readable, check out [this post](https://laravel-news.com/building-apps-composer).
+
 ## Usage
 
 First you need to `use` the trait in your form request object:
